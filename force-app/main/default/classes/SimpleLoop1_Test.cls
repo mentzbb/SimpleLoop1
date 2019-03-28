@@ -68,7 +68,7 @@ private class SimpleLoop1_Test
     static void testTimesTableZero()
     {
         SimpleLoop1 simpleLoop1=new SimpleLoop1();
-        List<Integer> result=simpleLoop1.getTimesTable(1);
+        List<Integer> result=simpleLoop1.getTimesTable(0);
         System.assertEquals(new List<Integer>{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, result);
     }
 
