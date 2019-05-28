@@ -49,7 +49,7 @@ Parameters:
 
 Name | Description
 --- | ---
-`<comment>` | a comment that raises any areas of concern to the mentor
+`<comment>` | a comment that draws attention to key areas of your solution
 `<solution_filename>` | the full pathname to your solution class
 `<username>`  | your username in the Mentz instance
 
